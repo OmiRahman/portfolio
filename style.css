@@ -1,7 +1,20 @@
+img{
+    height: 600px;
+    width: 600px;
+}
 h1{
     font-size: 50px;
     font-family: 'Hanalei Fill', cursive;
 }
 span{
     color: darkviolet;
+}
+.about{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.about img{
+    width: 100%;
 }
